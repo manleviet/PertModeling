@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/open.ico</file>
+        <file>icon/forward.ico</file>
+        <file>icon/play.ico</file>
+        <file>icon/repeat.ico</file>
+        <file>icon/rewind.ico</file>
+        <file>icon/stop.ico</file>
+        <file>icon/MoPert.ico</file>
+    </qresource>
+</RCC>

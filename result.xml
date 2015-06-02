@@ -1,0 +1,13 @@
+<ResultPert>
+    <Node dateCommence="0" earlydate="4" slack="7" isCritique="0" id="0" name="B" latedate="9"/>
+    <Node dateCommence="0" earlydate="4" slack="0" isCritique="1" id="1" name="A" latedate="4"/>
+    <Node dateCommence="4" earlydate="7" slack="5" isCritique="0" id="2" name="D" latedate="10"/>
+    <Node dateCommence="4" earlydate="4" slack="5" isCritique="0" id="3" name="" latedate="9"/>
+    <Node dateCommence="4" earlydate="5" slack="3" isCritique="0" id="4" name="C" latedate="8"/>
+    <Node dateCommence="4" earlydate="6" slack="0" isCritique="1" id="5" name="E" latedate="6"/>
+    <Node dateCommence="7" earlydate="9" slack="3" isCritique="0" id="6" name="G" latedate="12"/>
+    <Node dateCommence="6" earlydate="16" slack="0" isCritique="1" id="7" name="H" latedate="16"/>
+    <Node dateCommence="5" earlydate="7" slack="3" isCritique="0" id="8" name="F" latedate="10"/>
+    <Node dateCommence="9" earlydate="16" slack="3" isCritique="0" id="9" name="I" latedate="16"/>
+    <Node dateCommence="16" earlydate="17" slack="0" isCritique="1" id="10" name="J" latedate="17"/>
+</ResultPert>

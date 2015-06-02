@@ -1,0 +1,29 @@
+<ResultPert>
+    <Step isChanged="1" earlyDate="300" idName="E" lateDate="-1" step="0" id="2"/>
+    <Step isChanged="1" earlyDate="300" idName="" lateDate="-1" step="1" id="3"/>
+    <Step isChanged="1" earlyDate="3" idName="D" lateDate="-1" step="2" id="1"/>
+    <Step isChanged="0" earlyDate="300" idName="" lateDate="-1" step="3" id="4"/>
+    <Step isChanged="1" earlyDate="330" idName="F" lateDate="-1" step="4" id="6"/>
+    <Step isChanged="1" earlyDate="450" idName="G" lateDate="-1" step="5" id="8"/>
+    <Step isChanged="1" earlyDate="460" idName="H" lateDate="-1" step="6" id="10"/>
+    <Step isChanged="1" earlyDate="3" idName="A" lateDate="-1" step="7" id="0"/>
+    <Step isChanged="1" earlyDate="33" idName="B" lateDate="-1" step="8" id="5"/>
+    <Step isChanged="1" earlyDate="633" idName="C" lateDate="-1" step="9" id="7"/>
+    <Step isChanged="1" earlyDate="643" idName="I" lateDate="-1" step="10" id="9"/>
+    <Step isChanged="1" earlyDate="653" idName="J" lateDate="-1" step="11" id="11"/>
+    <Step isChanged="1" earlyDate="653" idName="K" lateDate="-1" step="12" id="12"/>
+    <Step isChanged="0" earlyDate="653" idName="13" lateDate="653" step="0" id="13"/>
+    <Step isChanged="1" earlyDate="653" idName="K" lateDate="653" step="1" id="12"/>
+    <Step isChanged="1" earlyDate="643" idName="J" lateDate="643" step="2" id="11"/>
+    <Step isChanged="1" earlyDate="633" idName="I" lateDate="633" step="3" id="9"/>
+    <Step isChanged="1" earlyDate="33" idName="C" lateDate="33" step="4" id="7"/>
+    <Step isChanged="1" earlyDate="3" idName="B" lateDate="3" step="5" id="5"/>
+    <Step isChanged="1" earlyDate="0" idName="A" lateDate="0" step="6" id="0"/>
+    <Step isChanged="1" earlyDate="450" idName="H" lateDate="633" step="7" id="10"/>
+    <Step isChanged="1" earlyDate="330" idName="G" lateDate="513" step="8" id="8"/>
+    <Step isChanged="1" earlyDate="300" idName="F" lateDate="483" step="9" id="6"/>
+    <Step isChanged="1" earlyDate="300" idName="" lateDate="483" step="10" id="3"/>
+    <Step isChanged="0" earlyDate="0" idName="E" lateDate="0" step="11" id="2"/>
+    <Step isChanged="1" earlyDate="3" idName="" lateDate="483" step="12" id="4"/>
+    <Step isChanged="0" earlyDate="0" idName="D" lateDate="0" step="13" id="1"/>
+</ResultPert>
